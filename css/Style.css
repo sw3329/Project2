@@ -1,0 +1,10 @@
+.vScreen
+{
+    border:2px solid black;
+}
+
+.vContainer
+{
+    margin: 60px auto;
+    width: 800px;
+}
